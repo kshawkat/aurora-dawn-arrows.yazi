@@ -24,10 +24,10 @@
 
 ```bash
 # Linux/macOS
-git clone https://github.com/kshakwat/aurora-dawn-arrows.yazi.git ~/.config/yazi/flavors/aurora-dawn-arrows.yazi
+git clone https://github.com/kshawkat/aurora-dawn-arrows.yazi.git ~/.config/yazi/flavors/aurora-dawn-arrows.yazi
 
 # Windows
-git clone https://github.com/kshakwat/aurora-dawn-arrows.yazi.git %AppData%\yazi\config\flavors\aurora-dawn-arrows.yazi
+git clone https://github.com/kshawkat/aurora-dawn-arrows.yazi.git %AppData%\yazi\config\flavors\aurora-dawn-arrows.yazi
 ```
 
 ## ⚙️ Usage
@@ -52,7 +52,7 @@ light = "aurora-dawn-arrows"
 
 ## 💡 See Also
 
-Prefer a darker look? Check out the storm version: **[Aurora Storm Arrows](https://github.com/kshawkat/aurora-storm-arrows)**!
+Prefer a darker look? Check out the storm version: **[Aurora Storm Arrows](https://github.com/kshawkat/aurora-storm-arrows.yazi)**!
 
 ## 🤝 Contributing
 
